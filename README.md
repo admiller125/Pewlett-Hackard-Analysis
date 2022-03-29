@@ -28,7 +28,7 @@ Of the issues that are about to plague the company are:
 *The largest segment of retiring staff are senior engineers. This could cause problems with technical knowledge within the organization.
 
 *The company is only considering individuals born in 1965. This seems to be a short sited and arbitrary way of deciding who should be eligible for mentorship. If they wanted to come up with an effective solution for selecting mentees 
-they would determine which employees are most impactful that are about to retire and pair them with promising newer engineers that have recieved good performance reviews. It would also be important to sort them by discipline.
+they would determine which employees are most impactful that are about to retire and pair them with promising newer engineers that have received good performance reviews. It would also be important to sort them by discipline.
 
 *The list of mentees is rather small in comparison to the list of employees about to retire. The following was generated for comparison to the retiring_titles table.
 
