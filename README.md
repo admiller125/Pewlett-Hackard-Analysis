@@ -23,7 +23,7 @@ Of the issues that are about to plague the company are:
 
 *Roughly 1/4 of employees of the company are about to retire. Below is the breakdown of the titles of the employees nearing retirement.
 
-![](resources/retiring_titles.PNG)
+![](Resources/retiring_titles.PNG)
 
 *The largest segment of retiring staff are senior engineers. This could cause problems with technical knowledge within the organization.
 
@@ -32,7 +32,7 @@ they would determine which employees are most impactful that are about to retire
 
 *The list of mentees is rather small in comparison to the list of employees about to retire. The following was generated for comparison to the retiring_titles table.
 
-![](resources/mentoring_titles.PNG)
+![](Resources/mentoring_titles.PNG)
 
 
 ## Summary
