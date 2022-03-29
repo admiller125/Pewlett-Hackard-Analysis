@@ -25,12 +25,12 @@ Of the issues that are about to plague the company are:
 
 ![](Resources/retiring_titles.PNG)
 
-*The largest segment of retiring staff are senior engineers. This could cause problems with technical knowledge within the organization.
+* The largest segment of retiring staff are senior engineers. This could cause problems with technical knowledge within the organization.
 
-*The company is only considering individuals born in 1965. This seems to be a short sited and arbitrary way of deciding who should be eligible for mentorship. If they wanted to come up with an effective solution for selecting mentees 
+* The company is only considering individuals born in 1965. This seems to be a short sited and arbitrary way of deciding who should be eligible for mentorship. If they wanted to come up with an effective solution for selecting mentees 
 they would determine which employees are most impactful that are about to retire and pair them with promising newer engineers that have received good performance reviews. It would also be important to sort them by discipline.
 
-*The list of mentees is rather small in comparison to the list of employees about to retire. The following was generated for comparison to the retiring_titles table.
+* The list of mentees is rather small in comparison to the list of employees about to retire. The following was generated for comparison to the retiring_titles table.
 
 ![](Resources/mentoring_titles.PNG)
 
@@ -41,7 +41,7 @@ The two major concerns that the company has going forward are regarding the numb
  
 ### Business Recommendations
 
-*How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
 At a glance it seems that 72,458 jobs will need to be filled due to employees hitting retirement age, however it is possible that some of this has already been planned for. Due to the fact that Pewlett Hackard is a technology company
 maybe some of the older employees are maintaining legacy systems that will be retired alongside the employees. It is also possible that due to new innovations Pewlett Hackard they will need fewer of certain roles of employees in the 
@@ -50,7 +50,7 @@ further information. Another query that would provide useful information would b
 additional replacement employees. 
 
 
-*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 At a glance the answer to this question is no. Based on the additional query counting all of the titles in the mentorship eligibility table (seen in the results section) it seems there are only 1549 employees eligible for the program. 
 As mentioned earlier the criteria for selecting employees eligible for mentorship is arbitrary and should be broadened and specific to the positions needed. 
