@@ -21,7 +21,7 @@ After analyzing the results it seems that the company is close to having signifi
 
 Of the issues that are about to plague the company are:
 
-*Roughly 1/4 of employees of the company are about to retire. Below is the breakdown of the titles of the employees nearing retirement.
+* Roughly 1/4 of employees of the company are about to retire. Below is the breakdown of the titles of the employees nearing retirement.
 
 ![](Resources/retiring_titles.PNG)
 
